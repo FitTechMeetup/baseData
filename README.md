@@ -1,5 +1,4 @@
 # baseData
-initial meetup repo
 
 Slack Channel 
 
